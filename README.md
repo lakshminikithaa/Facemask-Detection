@@ -12,4 +12,4 @@ Highlights faces with bounding boxes and confidence scores
 
 Includes training scripts with data augmentation
 
-Generates training performance visualizations4
+Generates training performance visualizations
